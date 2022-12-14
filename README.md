@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋🏻
+🌙I prefer popsicles, Ruby, and the motto is "acta non verba".
 <!--
 **catherine-ne/catherine-ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
